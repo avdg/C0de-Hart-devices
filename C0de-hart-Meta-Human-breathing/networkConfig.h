@@ -27,5 +27,5 @@ For more information, please refer to <https://unlicense.org/>
 const char* ssid = "Nerdlab";
 const char* password = "<password>";
 const char* remoteIp = "192.168.188.202";  // Replace with the IP address of the device you want to send OSC messages to
-const unsigned int remotePort = 4401;    // Port to send OSC messages to
+const unsigned int remotePort = 4480;    // Port to send OSC messages to
 const unsigned int localPort = 4400;     // Local port to listen for OSC messages

@@ -26,7 +26,7 @@ This setup is identical for both ESP32 modules.
 * SSID:				"Nerdlab"
 * Password:			&lt;PASSWORD&gt;
 * IP Touch Designer server:	"192.168.188.202"
-* Remote Port ESP32:		4401, port to send OSC messages
+* Remote Port ESP32:		4480, port to send OSC messages
 * Local Port ESP32:		4400, port to receive OSC messages
 * Local IP address is allocated via a static IP address configured in the router DHCP setup.
   * C0de-hart-buttons:			"192.168.188.???"
